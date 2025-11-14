@@ -1,6 +1,6 @@
 
 # Hi 👋,
- I'm Kidist a 3rd-year Software Engineering student at Addis Ababa Science and Technology University (AASTU),  based in Addis Ababa, Ethiopia.
+ I'm Kidist a Software Engineering student at Addis Ababa Science and Technology University (AASTU),  based in Addis Ababa, Ethiopia.
 
 
 ## 🌐 Socials:
