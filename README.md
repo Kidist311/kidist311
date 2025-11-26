@@ -1,5 +1,5 @@
 
-# Hi 👋,
+# Hi 👋
  I'm Kidist a Software Engineering student at Addis Ababa Science and Technology University (AASTU),  based in Addis Ababa, Ethiopia.
 
 
