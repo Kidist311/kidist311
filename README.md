@@ -52,31 +52,6 @@ I’m a passionate software engineering student at **Addis Ababa Science and Tec
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidist311&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9F&icon_color=4ECDC4)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kidist311&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9F&text_color=C9D1D9)
-  
-  ### 🏆 Trophies  
-  ![](https://github-profile-trophy.vercel.app/?username=kidist311&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 👀 Profile Visitors  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=kidist311&label=Visitors&color=6&icon=6&pretty=false)
-  
-  *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-  
-</div>
 
 ---
 
