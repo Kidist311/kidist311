@@ -1,7 +1,7 @@
 # Kidist Alemayehu  
 ### Software Engineering Student | Addis Ababa, Ethiopia  
 
-I’m a passionate software engineering student at **Addis Ababa Science and Technology University (AASTU)**, actively building my skills in modern web and mobile development. I enjoy creating clean, functional applications and continuously learning new technologies.  
+I’m a software engineering student at **Addis Ababa Science and Technology University (AASTU)**, actively building my skills in modern web and mobile development. I enjoy creating clean, functional applications and continuously learning new technologies.  
 
 ---
 
