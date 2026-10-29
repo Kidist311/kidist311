@@ -36,35 +36,35 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=d4af37&color=0f172a" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=d4af37&color=0f172a" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=d4af37&color=0f172a" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=d4af37&color=0f172a" alt="PHP"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=d4af37&color=0f172a" alt="C++"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=python&logoColor=d4af37&color=0f172a" alt="Python"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=openjdk&logoColor=d4af37&color=0f172a" alt="Java"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=php&logoColor=d4af37&color=0f172a" alt="PHP"/>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=d4af37&color=0f172a" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=d4af37&color=0f172a" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=d4af37&color=0f172a" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=spring-boot&logoColor=d4af37&color=0f172a" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=d4af37&color=0f172a" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=d4af37&color=0f172a" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=react&logoColor=d4af37&color=0f172a" alt="React"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=next.js&logoColor=d4af37&color=0f172a" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=fastapi&logoColor=d4af37&color=0f172a" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=spring-boot&logoColor=d4af37&color=0f172a" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=laravel&logoColor=d4af37&color=0f172a" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=flutter&logoColor=d4af37&color=0f172a" alt="Flutter"/>
 </p>
 
 ### 🗄️ Databases & Caching
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=d4af37&color=0f172a" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=d4af37&color=0f172a" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=d4af37&color=0f172a" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=d4af37&color=0f172a" alt="Redis"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=mysql&logoColor=d4af37&color=0f172a" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=postgresql&logoColor=d4af37&color=0f172a" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=mongodb&logoColor=d4af37&color=0f172a" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=redis&logoColor=d4af37&color=0f172a" alt="Redis"/>
 </p>
 
 ### ⚙️ Tools & Architecture
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=d4af37&color=0f172a" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=d4af37&color=0f172a" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=d4af37&color=0f172a" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=git&logoColor=d4af37&color=0f172a" alt="Git"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=docker&logoColor=d4af37&color=0f172a" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-0f172a?style=for-the-badge&logo=vercel&logoColor=d4af37&color=0f172a" alt="Vercel"/>
 </p>
 
 </div>
