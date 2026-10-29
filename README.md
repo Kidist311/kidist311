@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hey there 👋, I'm Kidist Alemayehu! 
@@ -32,14 +30,23 @@
 
 ---
 
-## 🎯 About Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <i>Full-Stack Software Engineer building scalable web applications, real-time systems, and high-performance APIs.</i>
-</p>
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C/C++` • `Python` • `Java` • `PHP` |
+| **Frameworks** | `React` • `Next.js` • `FastAPI` • `Spring Boot` • `Laravel` • `Flutter` |
+| **Databases** | `MySQL` • `PostgreSQL` • `MongoDB` • `Redis` |
+| **Architecture & Tools** | `REST APIs` • `Microservices` • `Git` • `Docker` • `Vercel` |
+
+</div>
+
+---
 
 ```javascript
-const meaza = {
+const kidist = {
   pronouns: "she" | "her",
   architecture: ["Microservices", "REST APIs", "MVC", "Serverless"],
   currentFocus: "Building scalable full-stack applications",
@@ -55,14 +62,6 @@ class FullStackDeveloper:
             "Solve problems, not just write code"
         ]
         
-        self.tech_stack = {
-            'frontend': ['React', 'TypeScript', 'Responsive Design', 'UI/UX'],
-            'backend': ['REST APIs', 'Microservices', 'Authentication', 'Security'],
-            'databases': ['Schema Design', 'Query Optimization', 'ORM', 'NoSQL'],
-            'devops': ['CI/CD', 'Containerization', 'Cloud Deployment', 'Monitoring'],
-            'soft_skills': ['Problem Solving', 'Team Collaboration', 'Agile', 'Communication']
-        }
-    
     def develop_solution(self, requirement):
         design = self.architect_solution(requirement)
         implementation = self.write_clean_code(design)
